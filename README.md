@@ -40,8 +40,8 @@ To run the Website Quality Assurance Feedback application locally, follow these 
    streamlit run app.py
    ```
 5. **Usage**:
-   Once the application starts, it will be available in your web browser at http://localhost:8501 so you can : 
-   -Enter a URL in the input field.
-   -Click "Analyze" to start the feedback process.
-   -Review the results provided in the feedback panel.
+Once the application starts, it will be available in your web browser at http://localhost:8501 so you can : 
+      -Enter a URL in the input field.
+      -Click "Analyze" to start the feedback process.
+      -Review the results provided in the feedback panel.
 
